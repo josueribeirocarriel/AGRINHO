@@ -1,3 +1,6 @@
+
+// um pouco dos codigos eu pedi ajuda para uma i.a e esta ai meu jogo.
+//Tente fazer seu record.
 // para pegar um animal so clicar em sua cabeça.
 let animais = [];
 let plantas = [];
